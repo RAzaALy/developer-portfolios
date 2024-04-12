@@ -16,7 +16,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
-
+- [Aly Raza](https://raza-portfolio.vercel.app)
 - [Aashir Khan](https://portfolio-n4sn.vercel.app)
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aaron Dunphy](https://aarondunphy.com)
